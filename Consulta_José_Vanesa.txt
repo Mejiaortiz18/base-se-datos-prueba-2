@@ -1,0 +1,9 @@
+Nombres: 
+-José Enmanuerl Ortiz Mejia #20
+-Vanesa Alejandra Amaya Escobar #2
+
+Tarea:
+Consultas CRUD y JOIN
+
+Repositorio de Git Hub:
+https://github.com/Mejiaortiz18/base-se-datos-prueba-2
