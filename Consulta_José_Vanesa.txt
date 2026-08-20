@@ -6,4 +6,4 @@ Tarea:
 Consultas CRUD y JOIN
 
 Repositorio de Git Hub:
-https://github.com/Mejiaortiz18/base-se-datos-prueba-2
+https://github.com/Mejiaortiz18/base-se-datos-prueba-2git 
